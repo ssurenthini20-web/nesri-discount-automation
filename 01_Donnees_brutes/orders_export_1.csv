@@ -1,0 +1,185 @@
+Name,Email,Financial Status,Paid at,Fulfillment Status,Fulfilled at,Accepts Marketing,Currency,Subtotal,Shipping,Taxes,Total,Discount Code,Discount Amount,Shipping Method,Created at,Lineitem quantity,Lineitem name,Lineitem price,Lineitem compare at price,Lineitem sku,Lineitem requires shipping,Lineitem taxable,Lineitem fulfillment status,Billing Name,Billing Street,Billing Address1,Billing Address2,Billing Company,Billing City,Billing Zip,Billing Province,Billing Country,Billing Phone,Shipping Name,Shipping Street,Shipping Address1,Shipping Address2,Shipping Company,Shipping City,Shipping Zip,Shipping Province,Shipping Country,Shipping Phone,Notes,Note Attributes,Cancelled at,Payment Method,Payment Reference,Refunded Amount,Vendor,Outstanding Balance,Employee,Location,Device ID,Id,Tags,Risk Level,Source,Lineitem discount,Tax 1 Name,Tax 1 Value,Tax 2 Name,Tax 2 Value,Tax 3 Name,Tax 3 Value,Tax 4 Name,Tax 4 Value,Tax 5 Name,Tax 5 Value,Phone,Receipt Number,Duties,Billing Province Name,Shipping Province Name,Payment ID,Payment Terms Name,Next Payment Due At,Payment References
+#1057,arnaud.herbin59@gmail.com,paid,2026-06-14 18:54:34 +0200,unfulfilled,,no,EUR,36.00,16.60,0.00,52.60,"",0.00,La Poste (Colissimo),2026-06-14 18:54:33 +0200,1,Grille-pain BOSCH TAT6A004EM,36.00,53.00,TAT6A004EM,true,true,pending,Arnaud HERBIN,"22, rue Albert Waxin","22, rue Albert Waxin",,,AVESNES LES AUBERT,'59129,,FR,0625413157,Arnaud HERBIN,"22, rue Albert Waxin","22, rue Albert Waxin",,,AVESNES LES AUBERT,'59129,,FR,0625413157,,"",,Shopify Payments,rFFTCqc6WB8AAaE2iMSHPKm5U,0.00,Bosch,0.00,,,,7578028015957,"",Low,web,0.00,,,,,,,,,,,,,,,,rFFTCqc6WB8AAaE2iMSHPKm5U,,,rFFTCqc6WB8AAaE2iMSHPKm5U
+#1056,marion_pierre@hotmail.fr,paid,2026-06-11 10:52:49 +0200,unfulfilled,,no,EUR,526.00,43.80,0.00,569.80,"",0.00,La Poste (Colissimo),2026-06-11 10:52:48 +0200,1,"Réfrigérateur TOP LOADED , Blanc, Compresseur intégré  INDEL B TL29",526.00,702.00,TL29,true,true,pending,pierre marion,11 Allée Du Pressoir,11 Allée Du Pressoir,,,Bourgogne,'51110,,FR,+33679402597,pierre marion,rue henri rol tanguy,rue henri rol tanguy,,FMB,betheny,'51450,,FR,+33679402597,,"",,Shopify Payments,rZke3jVECoUiHZ6gTwwzaVAWh,0.00,Indel B,0.00,,,,7568165241173,"",Low,web,0.00,,,,,,,,,,,,,,,,rZke3jVECoUiHZ6gTwwzaVAWh,,,rZke3jVECoUiHZ6gTwwzaVAWh
+#1055,monstre-plante@live.fr,refunded,2026-06-10 09:37:31 +0200,unfulfilled,,no,EUR,185.00,21.36,0.00,206.36,"",0.00,La Poste (Colissimo),2026-06-10 09:37:31 +0200,1,Toaster 2 tranches Smeg TSF01UJEU-Union Jack,185.00,210.00,TSF01UJEU-Union Jack,true,true,pending,SAMIA BOUSSALEM,9 Rue Jean-Baptiste Lully,9 Rue Jean-Baptiste Lully,,,Offemont,'90300,,FR,0761576184,SAMIA BOUSSALEM,9 Rue Jean-Baptiste Lully,9 Rue Jean-Baptiste Lully,,,Offemont,'90300,,FR,0761576184,,"",,Shopify Payments,rLmWTBdyTmTWr0ajpxmj0z4X2,206.36,SMEG,0.00,,,,7565435109717,"",Low,web,0.00,,,,,,,,,,,,,,,,rLmWTBdyTmTWr0ajpxmj0z4X2,,,rLmWTBdyTmTWr0ajpxmj0z4X2 + z3NvYdoSJgF17LzkBN9Cto7xA
+#1054,enzo.viard@orange.fr,refunded,2026-06-02 20:57:21 +0200,unfulfilled,,no,EUR,653.00,37.80,0.00,690.80,"",0.00,La Poste (Colissimo),2026-06-02 20:57:20 +0200,1,Dometic CFX5 35 – Réfrigérateur portable à compression 36 L,653.00,799.00,97000050760,true,true,pending,Enzo Viard,"113 Rue Georges Bizet, Lotissement Bonneau",113 Rue Georges Bizet,Lotissement Bonneau,,Saint Céré,'46400,,FR,,Enzo Viard,45 Chemin des Églantiers,45 Chemin des Églantiers,,,Saint-Laurent-les-Tours,'46400,,FR,+33672970537,,"",,Shopify Payments,rQQ9Ld8zG9ntU3AbgGIKWgB75,690.80,Dometic,0.00,,,,7548053324117,"",Low,3890849,0.00,,,,,,,,,,,,,,,,rQQ9Ld8zG9ntU3AbgGIKWgB75,,,rQQ9Ld8zG9ntU3AbgGIKWgB75 + znOLxJUleFJPAUI3JqqtmfRYu
+#1053,vincentcontant@live.fr,refunded,2026-06-01 11:13:47 +0200,unfulfilled,,no,EUR,175.00,25.33,0.00,200.33,"",0.00,La Poste (Colissimo),2026-06-01 11:13:46 +0200,1,Annexe gonflable Dometic Ascension FTX TC Annexe,175.00,275.00,TCAnnexe,true,true,pending,Vincent CONTANT,2 Rue des Saules,2 Rue des Saules,,,ACQ,'62144,,FR,,Vincent CONTANT,2 Rue des Saules,2 Rue des Saules,,,ACQ,'62144,,FR,,,"",,Shopify Payments,rhNylNsAqcpIWQlfVfXo2FBFk,200.33,Dometic,0.00,,,,7543436083541,"",Low,web,0.00,,,,,,,,,,,,,,,,rhNylNsAqcpIWQlfVfXo2FBFk,,,rhNylNsAqcpIWQlfVfXo2FBFk + zzGVfLQiEBQXY2jDg0GjIfnMs
+#1052,tribalseb@live.fr,refunded,2026-05-30 12:15:54 +0200,unfulfilled,,no,EUR,45.00,17.90,0.00,62.90,"",0.00,La Poste (Colissimo),2026-05-30 12:15:54 +0200,1,Housse Campingaz pour Plancha 3 brûleurs (2000035737),45.00,,2000035737,true,true,pending,Sébastien ONDET,7 Imp. de la Tour Saint-Julien,7 Imp. de la Tour Saint-Julien,,,Randan,'63310,,FR,0650835528,Sébastien ONDET,7 Imp. de la Tour Saint-Julien,7 Imp. de la Tour Saint-Julien,,,Randan,'63310,,FR,,,"",,Shopify Payments,rQmaEigotS9er5eNNAxu2c64C,62.90,Campingaz,0.00,,,,7537004446037,"",Low,web,0.00,,,,,,,,,,,,,,,,rQmaEigotS9er5eNNAxu2c64C,,,rQmaEigotS9er5eNNAxu2c64C + zwOGSbNR2uO1SRblrgCkzegh9
+#1051,baptiste.leguen@gmail.com,paid,2026-05-28 11:56:04 +0200,fulfilled,2026-06-06 15:29:24 +0200,no,EUR,114.00,0.00,0.00,114.00,BONUS25,25.00,"",2026-05-28 11:56:03 +0200,1,Intervention SAV - Zone 1,139.00,,,false,true,fulfilled,Jean Baptiste LE GUEN,10 rue de la chaussée d'antin,10 rue de la chaussée d'antin,,,75009 paris,'75009,,FR,+33662163985,,,,,,,,,,,,"client_email: baptiste.leguen@gmail.com
+client_prenom: Jean Baptiste
+client_nom: LE GUEN
+client_telephone: 0662163985
+client_adresse: 10 rue de la chaussée d'antin
+client_ville: 75009 paris
+client_cp: 75009",,Shopify Payments,rSjMP2opYDmlchIy12BQdUTgz,0.00,Nesri discount,0.00,,,,7521273643349,"",Low,web,0.00,,,,,,,,,,,,,,,,rSjMP2opYDmlchIy12BQdUTgz,,,rSjMP2opYDmlchIy12BQdUTgz
+#1050,jos14x@live.fr,paid,2026-05-20 07:48:02 +0200,fulfilled,2026-05-26 23:53:05 +0200,no,EUR,113.00,60.00,0.00,173.00,"",0.00,Geodis Calberson,2026-05-20 07:48:01 +0200,1,Sommier tapissier 120/200,113.00,,120/200,true,true,fulfilled,MAZOZO MUKAWA KASSOGUE,12 Rue Claude Grenthe,12 Rue Claude Grenthe,,,Pierrelaye,'95480,,FR,0605272129,MAZOZO MUKAWA KASSOGUE,12 Rue Claude Grenthe,12 Rue Claude Grenthe,,,Pierrelaye,'95480,,FR,,,"",,Shopify Payments,rwF8vDKbouyVtYMq4vMxEJtPp,0.00,NESRI DISCOUNT,0.00,,,,7484731130197,"",Low,web,0.00,,,,,,,,,,,,,,,,rwF8vDKbouyVtYMq4vMxEJtPp,,,rwF8vDKbouyVtYMq4vMxEJtPp
+#1049,fabsica26600@gmail.com,paid,2026-05-19 22:20:43 +0200,fulfilled,2026-06-09 17:34:52 +0200,no,EUR,212.00,31.40,0.00,243.40,"",0.00,La Poste (Colissimo),2026-05-19 22:20:42 +0200,1,Table de cuisson AMICA AV3540C,212.00,255.00,AV3540C,true,true,fulfilled,Fabien Mounier,"6,Impasse de la Plaine","6,Impasse de la Plaine",,Fabelec,Serves-sur-Rhône,'26600,,FR,0633455856,Fabien Mounier,"6,Impasse de la Plaine","6,Impasse de la Plaine",,Fabelec,Serves-sur-Rhône,'26600,,FR,0633455856,,"",,Shopify Payments,rxawlxNmvkSqtKSh2GoNpnu5G,0.00,Amica,0.00,,,,7483830436181,"",Low,web,0.00,,,,,,,,,,,,,,,,rxawlxNmvkSqtKSh2GoNpnu5G,,,rxawlxNmvkSqtKSh2GoNpnu5G
+#1048,em.gerard@villaluna.fr,paid,2026-05-14 17:15:17 +0200,fulfilled,2026-05-22 17:59:47 +0200,no,EUR,469.00,43.80,0.00,512.80,"",0.00,La Poste (Colissimo),2026-05-14 17:15:16 +0200,1,Réfrigérateur congélateur solaire portable LIONCOOLER X50A,469.00,623.00,X50A,true,true,fulfilled,GERARD,25 Villa du Chatelet,25 Villa du Chatelet,,Villaluna,Fontenay-sous-Bois,'94120,,FR,0661322129,GERARD,25 Villa du Chatelet,25 Villa du Chatelet,,Villaluna,Fontenay-sous-Bois,'94120,,FR,0661322129,,"",,Shopify Payments,rujohwRnJvhnDJsrw4e18XBOe,0.00,Lion Cooler,0.00,,,,7472864461141,"",Low,web,0.00,,,,,,,,,,,,,,,,rujohwRnJvhnDJsrw4e18XBOe,,,rujohwRnJvhnDJsrw4e18XBOe
+#1047,viale.nolan.m@gmail.com,paid,2026-05-09 20:40:12 +0200,fulfilled,2026-05-22 17:58:21 +0200,no,EUR,119.00,55.00,0.00,174.00,"",0.00,Geodis Calberson,2026-05-09 20:40:11 +0200,1,Hotte Murale Pyramide 60 CM GLEM GHP645BK,119.00,227.00,GHP645BK,true,true,fulfilled,Nolan Viale,24 Rue des Lys,24 Rue des Lys,,,Pia,'66380,,FR,,Nolan Viale,24 Rue des Lys,24 Rue des Lys,,,Pia,'66380,,FR,,,"",,Shopify Payments,r8nW6o1LsQ69hGk42NUeG9x0r,0.00,Glem,0.00,,,,7462190580053,"",Low,web,0.00,,,,,,,,,,,,,,,,r8nW6o1LsQ69hGk42NUeG9x0r,,,r8nW6o1LsQ69hGk42NUeG9x0r
+#1046,patoublesle@gmail.com,paid,2026-04-28 17:44:59 +0200,fulfilled,2026-05-08 11:57:55 +0200,no,EUR,70.00,21.36,0.00,91.36,"",0.00,La Poste (Colissimo),2026-04-28 17:44:58 +0200,1,Bouteille de gaz CAMPINGAZ R907 - 6168,70.00,85.00,6168-2,true,true,fulfilled,Patrice Vigier,Pl. de la Gouroune,Pl. de la Gouroune,,,Blesle,'43450,,FR,,Patrice Vigier,Pl. de la Gouroune,Pl. de la Gouroune,,,Blesle,'43450,,FR,,,"",,Shopify Payments,ri8RyaSxjQWe1kzTdb0qaiFRS,0.00,Campingaz,0.00,,,,7438141030741,"",Low,web,0.00,,,,,,,,,,,,,,,,ri8RyaSxjQWe1kzTdb0qaiFRS,,,ri8RyaSxjQWe1kzTdb0qaiFRS
+#1045,gcollin@jardinsdufaubourg.com,paid,2026-04-27 20:09:14 +0200,fulfilled,2026-04-30 14:28:15 +0200,no,EUR,505.00,55.00,0.00,560.00,"",0.00,Geodis Calberson,2026-04-27 20:09:14 +0200,1,"Réfrigérateur encastrable Indel B, KD50 Ecosmart",505.00,,KD50 Ecosmart,true,true,fulfilled,Olivier Rouleau,9 rue d'aguesseau,9 rue d'aguesseau,,Hotel Les Jardins du Faubourg,paris,'75008,,FR,+33609942017,Guillaume Collin,9 rue d'aguesseau,9 rue d'aguesseau,,Hotel Les Jardins du Faubourg,paris,'75008,,FR,+33609942017,,"",,Shopify Payments,r2H8mPKTd9DqYm9A1VhGK59MP,0.00,Indel B,0.00,,,,7436424872277,"",Low,web,0.00,,,,,,,,,,,,,,,,r2H8mPKTd9DqYm9A1VhGK59MP,,,r2H8mPKTd9DqYm9A1VhGK59MP
+#1044,zamzam71@hotmail.fr,refunded,2026-04-26 13:17:54 +0200,unfulfilled,,no,EUR,1022.00,49.90,0.00,1071.90,"",0.00,La Poste (Colissimo),2026-04-26 13:17:53 +0200,1,Réfrigérateur Dometic RMS 8500 D,1022.00,1239.00,RMS8500D,true,true,pending,Damien MARTIN,11 bis rue de la Mare,11 bis rue de la Mare,,,St Germain du plain,'71370,,FR,0610772229,Damien MARTIN,11 bis rue de la Mare,11 bis rue de la Mare,,,St Germain du plain,'71370,,FR,0610772229,,"",,Shopify Payments,rWVQ8TpMfyjWF81zeBvnuS8AU,1071.90,Dometic,0.00,,,,7433677406549,"",Low,web,0.00,,,,,,,,,,,,,,,,rWVQ8TpMfyjWF81zeBvnuS8AU,,,rWVQ8TpMfyjWF81zeBvnuS8AU + zkh7iIWyWp3fMr9iAwTEV6Y49
+#1043,dasilva_jorge@orange.fr,refunded,2026-04-23 18:17:34 +0200,fulfilled,2026-04-30 14:05:59 +0200,no,EUR,374.00,31.40,0.00,405.40,"",0.00,La Poste (Colissimo),2026-04-23 18:17:34 +0200,1,Réchaud 3 feux à Gaz encastrable Dometic HBG 3445,374.00,399.00,HBG 3445,true,true,fulfilled,Jorge Da Silva,50 Allée du Soleil Couchant,50 Allée du Soleil Couchant,,,La Chapelle-sur-Coise,'69590,,FR,0670054197,Jorge Da Silva,50 Allée du Soleil Couchant,50 Allée du Soleil Couchant,,,La Chapelle-sur-Coise,'69590,,FR,,,"",,Shopify Payments,r9mlowvAOvnP6rHYlqWhkvQXZ,405.40,Dometic,0.00,,,,7427979936085,"",Low,web,0.00,,,,,,,,,,,,,,,,r9mlowvAOvnP6rHYlqWhkvQXZ,,,r9mlowvAOvnP6rHYlqWhkvQXZ + zX2uEbiMgYwdXkIWNtgNmEGJo
+#1042,ddisson@gmail.com,paid,2026-04-22 09:34:08 +0200,fulfilled,2026-05-09 13:01:07 +0200,no,EUR,229.00,31.40,0.00,260.40,"",0.00,La Poste (Colissimo),2026-04-22 09:34:07 +0200,1,HOTTE GROUPE FILTRANT 70 CM Airlux AHF771IX,229.00,419.00,AHF771IX,true,true,fulfilled,Dominique DISSON,"2 Impasse de La Diège, La Chabanne",2 Impasse de La Diège,La Chabanne,,Saint-Étienne-la-Geneste,'19160,,FR,0683467069,Dominique DISSON,"2 Impasse de La Diège, La Chabanne",2 Impasse de La Diège,La Chabanne,,Saint-Étienne-la-Geneste,'19160,,FR,0683467069,,"",,Shopify Payments,rhBC3TNW79lqc8bW4RC52Lpza,0.00,Airlux,0.00,,,,7424775029077,"",Low,web,0.00,,,,,,,,,,,,,,,,rhBC3TNW79lqc8bW4RC52Lpza,,,rhBC3TNW79lqc8bW4RC52Lpza
+#1041,olivier@mazade.fr,refunded,2026-04-15 09:26:27 +0200,fulfilled,2026-04-30 14:11:48 +0200,no,EUR,1299.00,70.00,0.00,1369.00,"",0.00,Geodis Calberson,2026-04-15 09:26:26 +0200,1,Trio appareil combiné mixte/lave-vaisselle Rosières TRM60IN,1299.00,1824.00,TRM60IN,true,true,fulfilled,Olivier BUSSY,480 Route de Charols,480 Route de Charols,,,Pont-de-Barret,'26160,,FR,0633284191,Olivier BUSSY,480 Route de Charols,480 Route de Charols,,,Pont-de-Barret,'26160,,FR,0633284191,,"",,Shopify Payments,rA0HkCt73nKbiolmzTJQGONes,1369.00,NESRI DISCOUNT,0.00,,,,7411135218005,"",Low,web,0.00,,,,,,,,,,,,,,,,rA0HkCt73nKbiolmzTJQGONes,,,rA0HkCt73nKbiolmzTJQGONes + zB9gLLtX15WDXFzDnGrSTUny1
+#1040,romuald.podevin@sfr.fr,refunded,2026-04-07 12:21:38 +0200,fulfilled,2026-04-10 16:12:46 +0200,no,EUR,279.00,37.80,0.00,316.80,"",0.00,La Poste (Colissimo),2026-04-07 12:21:37 +0200,1,Réfrigérateur portable COMBICOOL trimixte DOMETIC RC1205 GC,279.00,325.00,RC1205 GC,true,true,fulfilled,Romuald Podevin,14 rue de l école,14 rue de l école,,,Vezezoux,'43390,,FR,0620063390,Romuald Podevin,14 rue de l école,14 rue de l école,,,Vezezoux,'43390,,FR,0620063390,,"",,Shopify Payments,rUcgsyXjeWl36Z2VC4GOz4Ray,316.80,NESRI DISCOUNT,0.00,,,,7395452715349,"",Low,web,0.00,,,,,,,,,,,,,,,,rUcgsyXjeWl36Z2VC4GOz4Ray,,,rUcgsyXjeWl36Z2VC4GOz4Ray + zejHKBTIOWPofYxQpKFTqksQC
+#1039,vfguillemain@orange.fr,paid,2026-04-06 19:13:47 +0200,fulfilled,2026-04-30 14:10:08 +0200,no,EUR,42.00,16.60,0.00,58.60,"",0.00,La Poste (Colissimo),2026-04-06 19:13:47 +0200,1,Housse renforcée XXL de barbecue CAMPINGAZ - 2000027839,42.00,,Housse renforcée XXL,true,true,fulfilled,Valérie Guillemain,1 Les Augeries,1 Les Augeries,,,Betz-le-Château,'37600,,FR,,Valérie Guillemain,1 Les Augeries,1 Les Augeries,,,Betz-le-Château,'37600,,FR,,,"",,Shopify Payments,rdHUKwniupvOdffo28Q1UmiVa,0.00,NESRI DISCOUNT,0.00,,,,7394173550933,"",Low,web,0.00,,,,,,,,,,,,,,,,rdHUKwniupvOdffo28Q1UmiVa,,,rdHUKwniupvOdffo28Q1UmiVa
+#1038,akmanege909@gmail.com,paid,2026-04-01 22:39:17 +0200,fulfilled,2026-04-29 12:13:39 +0200,no,EUR,192.00,25.33,0.00,217.33,"",0.00,La Poste (Colissimo),2026-04-01 22:39:15 +0200,1,"Série 4, Aspirateur sans sac, ProHygienic, Blanc BOSCH BGC21HYG1",192.00,221.74,BGC21HYG1,true,true,fulfilled,Ege Akman,12 Rue de Tilly,12 Rue de Tilly,,,Saint-Fargeau-Ponthierry,'77310,,FR,+33776595995,Ege Akman,12 Rue de Tilly,12 Rue de Tilly,,,Saint-Fargeau-Ponthierry,'77310,,FR,+33776595995,,"",,Shopify Payments,ras24B1Us0jPcjZmMX2DTeZwF,0.00,NESRI DISCOUNT,0.00,,,,7385405751637,"",Low,3890849,0.00,,,,,,,,,,,,,,,,ras24B1Us0jPcjZmMX2DTeZwF,,,rZslyWjo1XAS0w8q0VySl1ksC + rVcDqOmPWWl2JONwY1iD4EFO1 + rEtJqRJ9z6JZZta59lA44bMjI + rF5Ahlg7oFx2rUhvJVLdfN74a + rZvD7CwidZ9lXkys6IR2LRpZR + ras24B1Us0jPcjZmMX2DTeZwF
+#1037,nartxavier@gmail.com,partially_refunded,2026-03-31 21:28:54 +0200,fulfilled,2026-04-14 11:54:04 +0200,no,EUR,80.00,16.60,0.00,96.60,"",0.00,La Poste (Colissimo),2026-03-31 21:28:53 +0200,2,Détendeur butane sécurité rapide BUTAGAZ MASTERCLIP,40.00,,MASTERCLIP,true,true,fulfilled,xavier Nart,"208 chemin de Crouzouli  46600, 46600 FLOIRAC",208 chemin de Crouzouli  46600,46600 FLOIRAC,NART,Floirac,'46600,,FR,0633071744,xavier Nart,"208 chemin de Crouzouli  46600, 46600 FLOIRAC",208 chemin de Crouzouli  46600,46600 FLOIRAC,NART,Floirac,'46600,,FR,0633071744,,"",,Shopify Payments,rh0FSNwHrB8Jb8MEp770XuMjx,96.00,NESRI DISCOUNT,0.00,,,,7383207182677,"",Low,web,0.00,,,,,,,,,,,,,,,,rh0FSNwHrB8Jb8MEp770XuMjx,,,rh0FSNwHrB8Jb8MEp770XuMjx + zRCMqOJKix5gW9mCTAw6Hb0Tf
+#1036,tomasztito@hotmail.fr,refunded,2026-03-31 19:48:41 +0200,fulfilled,2026-04-30 14:09:12 +0200,no,EUR,653.00,37.80,0.00,690.80,"",0.00,La Poste (Colissimo),2026-03-31 19:48:40 +0200,1,Dometic CFX5 35 – Réfrigérateur portable à compression 36 L,653.00,799.00,97000050760,true,true,fulfilled,Zdebik Tomasz,"13 Avenue Aristide Briand, Vina Del Mar",13 Avenue Aristide Briand,Vina Del Mar,,Menton,'06500,,FR,+33627370952,Zdebik Tomasz,"13 Avenue Aristide Briand, Vina Del Mar",13 Avenue Aristide Briand,Vina Del Mar,,Menton,'06500,,FR,+33627370952,,"",,Shopify Payments,r4P3t9BoiNrfnlBVporRT7MGV,690.80,NESRI DISCOUNT,0.00,,,,7383002022229,"",Low,web,0.00,,,,,,,,,,,,,,,,r4P3t9BoiNrfnlBVporRT7MGV,,,r4P3t9BoiNrfnlBVporRT7MGV + zcjHwqQJzmnHzx9zAAnxHwvYn
+#1035,doriana_8@hotmail.com,paid,2026-03-31 15:20:46 +0200,fulfilled,2026-04-14 11:53:20 +0200,no,EUR,375.00,43.80,0.00,418.80,"",0.00,La Poste (Colissimo),2026-03-31 15:20:45 +0200,1,Tiroir Chauffe-Plat 14 cm Push Pull Noir Neff N1AHA01N0,375.00,555.00,N1AHA01N0,true,true,fulfilled,Yasmina maatoug,24 Rue Nungesser et Coli,24 Rue Nungesser et Coli,,,Montbéliard,'25200,,FR,+33668599587,Yasmina maatoug,24 Rue Nungesser et Coli,24 Rue Nungesser et Coli,,,Montbéliard,'25200,,FR,+33668599587,,"",,Shopify Payments,rr2JEIdJWHEQl7DkoqD8eofJy,0.00,NESRI DISCOUNT,0.00,,,,7382476259669,"",Low,web,0.00,,,,,,,,,,,,,,,,rr2JEIdJWHEQl7DkoqD8eofJy,,,rs5B2ap1RO3uFlOKDG5ufGnaI + rr2JEIdJWHEQl7DkoqD8eofJy
+#1034,youneslaribilycee@gmail.com,partially_refunded,2026-03-21 12:52:29 +0100,fulfilled,2026-03-21 12:55:21 +0100,no,EUR,32.00,17.90,0.00,49.90,"",0.00,La Poste (Colissimo),2026-03-21 12:52:28 +0100,1,Pierres de Lave gros calibre Campingaz - 205637,32.00,,205637,true,true,fulfilled,LARIBI,9 Square du Nouveau Belleville,9 Square du Nouveau Belleville,,,Paris,'75020,,FR,,LARIBI,9 Square du Nouveau Belleville,9 Square du Nouveau Belleville,,,Paris,'75020,,FR,,,"",,Shopify Payments,rrHVQtpGVjpTBR8L1Ph9J9GdK,32.00,NESRI DISCOUNT,0.00,,,,7350613606741,"",Low,web,0.00,,,,,,,,,,,,,,,,rrHVQtpGVjpTBR8L1Ph9J9GdK,,,rrHVQtpGVjpTBR8L1Ph9J9GdK + zq5uoLHtcpkEWKYonWhi2O37z
+#1033,,paid,2026-03-21 10:51:57 +0100,fulfilled,2026-03-21 12:18:31 +0100,no,EUR,1934.00,75.00,0.00,2009.00,"",0.00,Geodis Calberson,2026-03-21 10:51:57 +0100,1,"Série 4, Réfrigérateur combiné pose-libre, 203 x 60 cm, Acier brossé anti-traces, Total No Frost BOSCH KGN392I1F",1934.00,2060.20,KGN392I1F,true,true,fulfilled,Younes LARIBI,9 Square du Nouveau Belleville,9 Square du Nouveau Belleville,,,Paris,'75020,,FR,,Younes LARIBI,9 Square du Nouveau Belleville,9 Square du Nouveau Belleville,,,Paris,'75020,,FR,,,"",,Shopify Payments,rsdrS1E0YrBquBWflaH4Dqayc,0.00,NESRI DISCOUNT,0.00,,,,7350394454357,"",Low,web,0.00,,,,,,,,,,,+33784646260,,,,,rsdrS1E0YrBquBWflaH4Dqayc,,,rsdrS1E0YrBquBWflaH4Dqayc
+#1032,,paid,2026-03-19 19:02:08 +0100,fulfilled,2026-04-08 10:24:13 +0200,no,EUR,2027.00,75.00,0.00,2102.00,"",0.00,Geodis Calberson,2026-03-19 19:02:07 +0100,1,"Série 4, Réfrigérateur combiné pose-libre, 203 x 70 cm, Acier brossé anti-traces BOSCH KGN492IAF",2027.00,2160.20,KGN492IAF,true,true,fulfilled,Nesri,98 Boulevard de Ménilmontant,98 Boulevard de Ménilmontant,,,Paris,'75020,,FR,,Nesri,98 Boulevard de Ménilmontant,98 Boulevard de Ménilmontant,,,Paris,'75020,,FR,,,"",,Shopify Payments,rTOU51A9emRR4hluZdLXFDL1e,0.00,NESRI DISCOUNT,0.00,,,,7347813843285,"",Low,web,0.00,,,,,,,,,,,+33603570629,,,,,rTOU51A9emRR4hluZdLXFDL1e,,,rTOU51A9emRR4hluZdLXFDL1e
+#1031,,paid,2026-03-19 19:00:29 +0100,fulfilled,2026-04-08 10:24:12 +0200,no,EUR,2027.00,75.00,0.00,2102.00,"",0.00,Geodis Calberson,2026-03-19 19:00:29 +0100,1,"Série 4, Réfrigérateur combiné pose-libre, 203 x 70 cm, Acier brossé anti-traces BOSCH KGN492IAF",2027.00,2160.20,KGN492IAF,true,true,fulfilled,Nesri,98 Boulevard de Ménilmontant,98 Boulevard de Ménilmontant,,,Paris,'75020,,FR,,Nesri,98 Boulevard de Ménilmontant,98 Boulevard de Ménilmontant,,,Paris,'75020,,FR,,,"",,Shopify Payments,rUqXXjMNSHNUpeOi8ZG814sUU,0.00,NESRI DISCOUNT,0.00,,,,7347810795861,"",Low,web,0.00,,,,,,,,,,,+33603570629,,,,,rUqXXjMNSHNUpeOi8ZG814sUU,,,rUqXXjMNSHNUpeOi8ZG814sUU
+#1030,,paid,2026-03-19 18:57:08 +0100,fulfilled,2026-04-08 10:24:11 +0200,no,EUR,1934.00,75.00,0.00,2009.00,"",0.00,Geodis Calberson,2026-03-19 18:57:08 +0100,1,"Série 4, Réfrigérateur combiné pose-libre, 203 x 60 cm, Acier brossé anti-traces, Total No Frost BOSCH KGN392I1F",1934.00,2060.20,KGN392I1F,true,true,fulfilled,rfgeggerager,54 Rue de l'Hôtel de Ville,54 Rue de l'Hôtel de Ville,,,Paris,'75004,,FR,,rfgeggerager,54 Rue de l'Hôtel de Ville,54 Rue de l'Hôtel de Ville,,,Paris,'75004,,FR,,,"",,Shopify Payments,rKOcC9DsirUe4RZp7kSHmgxii,0.00,NESRI DISCOUNT,0.00,,,,7347806175573,"",Low,web,0.00,,,,,,,,,,,+33603570629,,,,,rKOcC9DsirUe4RZp7kSHmgxii,,,rKOcC9DsirUe4RZp7kSHmgxii
+#1029,,paid,2026-03-19 18:27:36 +0100,fulfilled,2026-04-08 10:24:10 +0200,no,EUR,225.00,43.80,0.00,268.80,"",0.00,La Poste (Colissimo),2026-03-19 18:27:36 +0100,1,"Série 2, Micro-ondes encastrable, Noir BOSCH BFL623MB4",225.00,313.80,BFL623MB4,true,true,fulfilled,Badedji,50 Avenue Jean Jaurès,50 Avenue Jean Jaurès,,,Paris,'75019,,FR,,Badedji,50 Avenue Jean Jaurès,50 Avenue Jean Jaurès,,,Paris,'75019,,FR,,,"",,Shopify Payments,rq57g0bpszdd5nG7ylaUj08US,0.00,NESRI DISCOUNT,0.00,,,,7347760922965,"",Low,web,0.00,,,,,,,,,,,+33629368708,,,,,rq57g0bpszdd5nG7ylaUj08US,,,rq57g0bpszdd5nG7ylaUj08US
+#1028,,paid,2026-03-19 18:19:12 +0100,fulfilled,2026-04-08 10:24:09 +0200,no,EUR,16280.00,75.00,0.00,16355.00,"",0.00,Geodis Calberson,2026-03-19 18:19:12 +0100,1,"Série 400, Combiné réfrigérateur-congélateur Vario, 212.5 x 75.6 cm, Charnières pantographes SoftClose GAGGENAU RB472305",16280.00,,RB472305,true,true,fulfilled,Maradona,21 Avenue de la Carrée (La Jubaudière),21 Avenue de la Carrée (La Jubaudière),,,Beaupréau-en-Mauges,'49510,,FR,,Maradona,21 Avenue de la Carrée (La Jubaudière),21 Avenue de la Carrée (La Jubaudière),,,Beaupréau-en-Mauges,'49510,,FR,,,"",,Shopify Payments,rWIutzPNIQjTvvhWYOFygUH5q,0.00,NESRI DISCOUNT,0.00,,,,7347744670037,"",Low,web,0.00,,,,,,,,,,,+33695298425,,,,,rWIutzPNIQjTvvhWYOFygUH5q,,,rWIutzPNIQjTvvhWYOFygUH5q
+#1027,,paid,2026-03-19 18:15:48 +0100,fulfilled,2026-04-08 10:24:09 +0200,no,EUR,19.50,13.70,0.00,33.20,"",0.00,La Poste (Colissimo),2026-03-19 18:15:47 +0100,1,2 Baguettes + Flux Brasure Argent 34% - LxØ 350x1.5mm Campingaz - 2196991,19.50,,2196991,true,true,fulfilled,Diego WIERS,98 Boulevard de Ménilmontant,98 Boulevard de Ménilmontant,,,Paris,'75020,,FR,,Diego WIERS,98 Boulevard de Ménilmontant,98 Boulevard de Ménilmontant,,,Paris,'75020,,FR,,,"",,Shopify Payments,rmr4LlkwO4CXhGFpkGuOKOkwN,0.00,NESRI DISCOUNT,0.00,,,,7347740115285,"",Low,web,0.00,,,,,,,,,,,+33606060606,,,,,rmr4LlkwO4CXhGFpkGuOKOkwN,,,rynIPJV5gs4miLPMms6JFvREl + rmr4LlkwO4CXhGFpkGuOKOkwN
+#1026,nesridiscount@free.fr,refunded,2026-03-01 17:32:39 +0100,unfulfilled,,no,EUR,19.50,13.70,0.00,33.20,"",0.00,La Poste (Colissimo),2026-03-01 17:32:38 +0100,1,2 Baguettes + Flux Brasure Argent 34% - LxØ 350x1.5mm Campingaz - 2196991,19.50,,2196991,true,true,pending,Alex NESRI,98 BD MENILMONTANT,98 BD MENILMONTANT,,NESRI DISCOUNT,PARIS,'75020,,FR,+33143661931,Alex NESRI,98 BD MENILMONTANT,98 BD MENILMONTANT,,NESRI DISCOUNT,PARIS,'75020,,FR,+33143661931,,"client_email: nesridiscount@free.fr
+client_prenom: FHFDH
+client_nom: GH
+client_telephone: 0603570629
+client_adresse: 98 Bd de Ménilmontant
+client_ville: PARIS
+client_cp: 75020",2026-05-08 12:00:16 +0200,Shopify Payments,rEtVuhyxdK5g2HiwgpvBKTajb,33.20,NESRI DISCOUNT,0.00,,,,7306735845717,"",Low,web,0.00,,,,,,,,,,,,,,,,rEtVuhyxdK5g2HiwgpvBKTajb,,,rEtVuhyxdK5g2HiwgpvBKTajb + zK4V114hCW8G0KHoc9bwWjQsm
+#1025,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-17 14:58:23 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2026-01-16 18:15:28 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,JUBA Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,,,,,,,,,,,,"client_email: Avenys.contact@gmail.com
+client_prenom: JUBA
+client_nom: Saoudi
+client_telephone: 0652567878
+client_adresse: 28 avenue des acacias
+client_ville: chelles
+client_cp: 77500",,"","",0.00,Nesri discount,0.00,,,,7205044552021,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1024,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-17 14:58:22 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2026-01-16 18:03:55 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,Kennan Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,,,,,,,,,,,,"client_email: Avenys.contact@gmail.com
+client_prenom: Kennan
+client_nom: Saoudi
+client_telephone: 0652567878
+client_adresse: 28 avenue des acacias
+client_ville: chelles
+client_cp: 77500",,"","",0.00,Nesri discount,0.00,,,,7205024727381,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1023,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-17 14:58:22 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2026-01-16 17:39:09 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,Kennan Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,,,,,,,,,,,,"client_email: Avenys.contact@gmail.com
+client_prenom: Kennan
+client_nom: Saoudi
+client_telephone: 0652567878
+client_adresse: 28 avenue des acacias
+client_ville: chelles
+client_cp: 77500",,"","",0.00,Nesri discount,0.00,,,,7204981473621,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1022,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-17 14:58:21 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2026-01-16 17:34:32 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,Kennan Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,,,,,,,,,,,,"client_email: Avenys.contact@gmail.com
+client_prenom: Kennan
+client_nom: Saoudi
+client_telephone: 0652567878
+client_adresse: 28 avenue des acacias
+client_ville: chelles
+client_cp: 77500",,"","",0.00,Nesri discount,0.00,,,,7204972822869,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1021,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-17 14:58:21 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2026-01-16 17:14:26 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,Kennan Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,,,,,,,,,,,,"client_email: Avenys.contact@gmail.com
+client_prenom: Kennan
+client_nom: Saoudi
+client_telephone: 0652567878
+client_adresse: 28 avenue des acacias
+client_ville: chelles
+client_cp: 77500",,"","",0.00,Nesri discount,0.00,,,,7204937761109,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1020,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-17 14:58:20 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2026-01-16 17:03:05 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,Kennan Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,,,,,,,,,,,,"client_email: Avenys.contact@gmail.com
+client_prenom: Kennan
+client_nom: Saoudi
+client_telephone: 0652567878
+client_adresse: 28 avenue des acacias
+client_ville: chelles
+client_cp: 77500",,"","",0.00,Nesri discount,0.00,,,,7204918100309,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1019,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-17 14:58:20 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2026-01-16 16:57:16 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,Kennan Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,,,,,,,,,,,,"client_email: Avenys.contact@gmail.com
+client_prenom: Kennan
+client_nom: Saoudi
+client_telephone: 0652567878
+client_adresse: 28 avenue des acacias
+client_ville: chelles
+client_cp: 77500",,"","",0.00,Nesri discount,0.00,,,,7204907909461,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1018,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-17 14:58:19 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2026-01-16 16:48:02 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,Kennan Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,,,,,,,,,,,,"client_email: Avenys.contact@gmail.com
+client_prenom: Kennan
+client_nom: Saoudi
+client_telephone: 0652567878
+client_adresse: 28 avenue des acacias
+client_ville: chelles
+client_cp: 77500",,"","",0.00,Nesri discount,0.00,,,,7204890575189,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1017,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-17 14:58:19 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2026-01-16 16:35:00 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,Kennan Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,,,,,,,,,,,,"client_email: Avenys.contact@gmail.com
+client_prenom: Kennan
+client_nom: Saoudi
+client_telephone: 0652567878
+client_adresse: 28 avenue des acacias
+client_ville: chelles
+client_cp: 77500",,"","",0.00,Nesri discount,0.00,,,,7204864950613,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1016,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-17 14:58:18 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2026-01-16 16:28:10 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,Kennan Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,,,,,,,,,,,,"client_email: Avenys.contact@gmail.com
+client_prenom: Kennan
+client_nom: Saoudi
+client_telephone: 0652567878
+client_adresse: 28 avenue des acacias
+client_ville: chelles
+client_cp: 77500",,"","",0.00,Nesri discount,0.00,,,,7204854366549,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1015,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-17 14:58:18 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2026-01-16 16:18:33 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,Kennan Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,,,,,,,,,,,,"client_email: Avenys.contact@gmail.com
+client_prenom: Kennan
+client_nom: Saoudi
+client_telephone: 0652567878
+client_adresse: 28 avenue des acacias
+client_ville: chelles
+client_cp: 77500",,"","",0.00,Nesri discount,0.00,,,,7204838211925,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1014,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-17 14:58:17 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2026-01-16 16:12:55 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,Kennan Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,,,,,,,,,,,,"client_email: Avenys.contact@gmail.com
+client_prenom: Kennan
+client_nom: Saoudi
+client_telephone: 0652567878
+client_adresse: 28 avenue des acacias
+client_ville: chelles
+client_cp: 77500",,"","",0.00,Nesri discount,0.00,,,,7204829790549,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1013,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-17 14:58:16 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2026-01-16 16:08:32 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,Kennan Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,,,,,,,,,,,,"client_email: Avenys.contact@gmail.com
+client_prenom: Kennan
+client_nom: Saoudi
+client_telephone: 0652567878
+client_adresse: 28 avenue des acacias
+client_ville: chelles
+client_cp: 77500",,"","",0.00,Nesri discount,0.00,,,,7204822581589,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1012,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-17 14:58:16 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2026-01-16 15:47:37 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,Kennan Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,,,,,,,,,,,,"client_email: Avenys.contact@gmail.com
+client_prenom: Kennan
+client_nom: Saoudi
+client_telephone: 0652567878
+client_adresse: 28 avenue des acacias
+client_ville: chelles
+client_cp: 77500",,"","",0.00,Nesri discount,0.00,,,,7204787388757,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1011,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-16 15:46:33 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2026-01-16 15:41:38 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,Kennan Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,,,,,,,,,,,,"client_email: Avenys.contact@gmail.com
+client_prenom: Kennan
+client_nom: Saoudi
+client_telephone: 0652567878
+client_adresse: 28 avenue des acacias
+client_ville: chelles
+client_cp: 77500",,"","",0.00,Nesri discount,0.00,,,,7204777754965,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1010,Avenys.contact@gmail.com,paid,2026-01-15 16:33:13 +0100,fulfilled,2026-01-15 16:36:59 +0100,no,EUR,19.50,0.00,0.00,19.50,"",0.00,"",2026-01-15 16:33:12 +0100,1,2 Baguettes + Flux Brasure Argent 34% - LxØ 350x1.5mm Campingaz - 2196991,19.50,,2196991,true,true,fulfilled,Kennan Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,Kennan Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,,"",,manual,rvyYjOWO8lrJ4LUCr5suN6MEP,0.00,NESRI DISCOUNT,0.00,,,,7202894643541,"",Low,shopify_draft_order,0.00,,,,,,,,,,,,,,,,rvyYjOWO8lrJ4LUCr5suN6MEP,,,rvyYjOWO8lrJ4LUCr5suN6MEP
+#1009,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-13 01:54:05 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2026-01-12 18:23:24 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,Kennan Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,,,,,,,,,,,,"client_email: Avenys.contact@gmail.com
+client_prenom: Kennan
+client_nom: Saoudi
+client_telephone: 0652567878
+client_adresse: 28 avenue des acacias
+client_ville: chelles
+client_cp: 77500",,"","",0.00,Nesri discount,0.00,,,,7196802449749,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1008,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-13 01:54:05 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,298.00,"",2026-01-12 18:03:02 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,Kennan Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,,,,,,,,,,,,"client_email: Avenys.contact@gmail.com
+client_prenom: Kennan
+client_nom: Saoudi
+client_telephone: 0652567878
+client_adresse: 28 avenue des acacias
+client_ville: chelles
+client_cp: 77500",,"","",0.00,Nesri discount,0.00,,,,7196770140501,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1008,Avenys.contact@gmail.com,,,,,,,,,,,,,,2026-01-12 18:03:02 +0100,1,Intervention SAV - Zone 2,149.00,"","",false,true,fulfilled,,,,,,,,,,,,,,,,,,,,,,,,,,,Nesri discount,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,
+#1007,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-13 01:54:04 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2026-01-12 17:30:30 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,Kennan Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,,,,,,,,,,,,"client_email: Avenys.contact@gmail.com
+client_prenom: Kennan
+client_nom: Saoudi
+client_telephone: 0652567878
+client_adresse: 28 avenue des acacias
+client_ville: chelles
+client_cp: 77500",,"","",0.00,Nesri discount,0.00,,,,7196718530901,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1006,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-13 01:54:04 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2026-01-12 16:33:56 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,Kennan Saoudi,28 avenue des acacias,28 avenue des acacias,,,chelles,'77500,,FR,,,,,,,,,,,,,"client_email: Avenys.contact@gmail.com
+client_prenom: Kennan
+client_nom: Saoudi
+client_telephone: 0652567878
+client_adresse: 28 avenue des acacias
+client_ville: chelles
+client_cp: 77500",,"","",0.00,Nesri discount,0.00,,,,7196625371477,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1005,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-13 01:54:03 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2026-01-12 16:15:01 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,saoudi,28 Avenue des Acacias,28 Avenue des Acacias,,,Villeparisis,'77270,,FR,,,,,,,,,,,,,"",,"","",0.00,Nesri discount,0.00,,,,7196597289301,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1004,Avenys.contact@gmail.com,paid,,fulfilled,2026-01-13 01:54:03 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2026-01-11 15:16:12 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,saoudi,27 Rue de Solférino,27 Rue de Solférino,,,Boulogne-Billancourt,'92100,,FR,,,,,,,,,,,,,"",,"","",0.00,Nesri discount,0.00,,,,7194789249365,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1003,Avenys.contact@gmail.com,paid,,fulfilled,2025-12-30 17:16:23 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2025-12-30 17:15:07 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,saoudi,28 Avenue des Acacias,28 Avenue des Acacias,,,Villeparisis,'77270,,FR,,,,,,,,,,,,,"",,"","",0.00,Nesri discount,0.00,,,,7173033361749,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1002,Avenys.contact@gmail.com,paid,,fulfilled,2025-12-30 17:16:23 +0100,no,EUR,0.00,0.00,0.00,0.00,TEST,149.00,"",2025-12-30 15:15:54 +0100,1,Intervention SAV - Zone 2,149.00,,,false,true,fulfilled,Saoudi,28 Avenue des Acacias,28 Avenue des Acacias,,,Villeparisis,'77270,,FR,,,,,,,,,,,,,"",,"","",0.00,Nesri discount,0.00,,,,7172737892693,"",Low,web,0.00,,,,,,,,,,,,,,,,,,,
+#1001,,paid,2025-11-08 13:18:38 +0100,fulfilled,2025-11-09 13:51:22 +0100,no,EUR,111.00,0.00,0.00,111.00,"",0.00,"",2025-11-08 13:18:38 +0100,1,prod exemple,111.00,24554.00,,true,true,fulfilled,,,,,,,,,,,,,,,,,,,,,,"",,manual,reD83ITEcTykko6SUqfX44o0m,0.00,Nesri discount,0.00,,Nesri Discount,,7033922748757,"",Low,shopify_draft_order,0.00,,,,,,,,,,,,,,,,reD83ITEcTykko6SUqfX44o0m,,,reD83ITEcTykko6SUqfX44o0m

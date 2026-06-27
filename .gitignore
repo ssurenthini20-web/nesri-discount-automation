@@ -1,0 +1,6 @@
+.env
+compteur_rotation.txt
+__pycache__/
+*.pyc
+.DS_Store
+apercu_image_1.png
