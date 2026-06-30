@@ -30,7 +30,7 @@ jobs:
         GMAIL_MOT_DE_PASSE: ${{ secrets.GMAIL_MOT_DE_PASSE }}
         GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
       run: |
-        jupyter nbconvert --to notebook --execute 02_Notebooks_Python/test_shopify_corrige.ipynb --output 02_Notebooks_Python/test_shopify_corrige_output.ipynb
+        jupyter nbconvert --to notebook --execute 02_Notebooks_Python/test_shopify_corrige.ipynb --output test_shopify_corrige_output.ipynb
 
     - name: Sauvegarder l'avancement du compteur de produits
       run: |
