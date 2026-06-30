@@ -10,6 +10,10 @@ jobs:
   run-notebook:
     runs-on: ubuntu-latest
 
+    # Donne l'autorisation au robot d'écrire et de push sur le dépôt
+    permissions:
+      contents: write
+
     steps:
     - name: Récupérer le code du dépôt
       uses: actions/checkout@v3
@@ -42,8 +46,13 @@ jobs:
 
     - name: Sauvegarder l'avancement du compteur de produits
       run: |
-        git config --global user.name "GitHub Action"
-        git config --global user.email "action@github.com"
-        git add compteur_produits.txt || true
-        git commit -m "🔄 Mise à jour automatique du compteur de produits" || true
-        git push || true 
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # Ajoute automatiquement tous les compteurs pour qu'ils soient enregistrés
+        git add **/compteur_rotation*.txt || git add compteur_rotation*.txt || true
+        
+        # Le "[skip ci]" évite que cette sauvegarde automatique ne relance le script à l'infini
+        git commit -m "🔄 Auto: Mise à jour des compteurs de rotation [skip ci]" || echo "Aucun changement à sauvegarder"
+        
+        git push origin main
