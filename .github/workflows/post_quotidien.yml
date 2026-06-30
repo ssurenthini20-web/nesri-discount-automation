@@ -37,7 +37,7 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: notebook-output
-        path: test_shopify_corrige_output.ipynb
+        path: 02_Notebooks_Python/test_shopify_corrige_output.ipynb
 
     - name: Sauvegarder l'avancement du compteur de produits
       run: |
