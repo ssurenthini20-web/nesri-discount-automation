@@ -49,10 +49,11 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         
-        # Ajoute automatiquement tous les compteurs pour qu'ils soient enregistrés
-        git add **/compteur_rotation*.txt || git add compteur_rotation*.txt || true
+        # 🌟 CORRECTION ICI : Ajoute n'importe quel fichier compteur.txt ou compteur_rotation.txt présent dans le projet
+        git add **/compteur*.txt || git add compteur*.txt || true
         
         # Le "[skip ci]" évite que cette sauvegarde automatique ne relance le script à l'infini
         git commit -m "🔄 Auto: Mise à jour des compteurs de rotation [skip ci]" || echo "Aucun changement à sauvegarder"
         
         git push origin main
+        
