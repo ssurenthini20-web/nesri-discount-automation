@@ -9,7 +9,6 @@ on:
 jobs:
   run-notebook:
     runs-on: ubuntu-latest
-
     # Donne l'autorisation au robot d'écrire et de push sur le dépôt
     permissions:
       contents: write
@@ -48,11 +47,6 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        
-        # 🌟 CORRECTION ICI : Ajoute n'importe quel fichier compteur.txt ou compteur_rotation.txt présent dans le projet
-        git add **/compteur*.txt || git add compteur*.txt || true
-        
-        # Le "[skip ci]" évite que cette sauvegarde automatique ne relance le script à l'infini
+        git add 03_Donnees_propres/compteur_rotation.txt || true
         git commit -m "🔄 Auto: Mise à jour des compteurs de rotation [skip ci]" || echo "Aucun changement à sauvegarder"
-        
         git push origin main
